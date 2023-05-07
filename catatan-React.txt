@@ -1,0 +1,13 @@
+- React Roadmap -
+[* recomended]
+
+1. Create react project
+- using npx
+npx create-react-app my-app
+npm start
+- using vite*
+yarn create vite my-react-app --template react
+yarn
+yarn dev
+
+2. Component
