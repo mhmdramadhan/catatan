@@ -11,3 +11,12 @@ yarn
 yarn dev
 
 2. Component
+State : merender semua component
+ref : hanya merender data yang dipasang ref
+
+useCallback : untuk mencegah perenderan ulang pada sebuah component yang sama
+dengan menjalankan sebuah component jika component tersebut terdapat perubahan
+
+
+3. React Router
+yarn add react-router-dom@6
