@@ -24,6 +24,9 @@ yarn add react-router-dom@6
 4. Tailwind
 not react :
 1. npx tailwindcss init
+2.1. declare npm : npm init -y
+2.2. taruh code dibawah di scriptx pada file package.json
 2. mendefinisikan file input : npx tailwindcss -i ./src/input.css (lokasi input) -o ./build/css/style.css
 3. untuk selalu merender css :
 npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
+4. optional : install pretier : npm i -D prettier-plugin-tailwindcss
